@@ -1,2 +1,2 @@
 # myrepo2
-make a repo on GitHub
+make a restudio project on GitHub
